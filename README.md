@@ -22,7 +22,7 @@
 
 ## 📚 Overview
 
-This repository enables rNOE quantification using deep-learning-based reconstruction, following magnetic resonance fingerprinting (MRF) acquisition.
+This repository enables rNOE quantification using deep-learning-based reconstruction  following magnetic resonance fingerprinting (MRF) acquisition. See additional details in the associated paper: Power et al., iScience 2024, https://doi.org/10.1016/j.isci.2024.111209.
 
 ## ⚙️ Setup 
 1. Clone the repository
