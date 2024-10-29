@@ -19,6 +19,8 @@
 </div>
 </div>
 
+[![DOI](https://zenodo.org/badge/874612530.svg)](https://doi.org/10.5281/zenodo.14006943)
+
 
 ## 📚 Overview
 
